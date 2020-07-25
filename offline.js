@@ -1,13 +1,9 @@
 ﻿{
-<<<<<<< HEAD
-	"version": 1595649211,
-=======
-	"version": 1595598463,
->>>>>>> 4bec2ba32f066fd46f2abd1e2c102b83cd162006
+	"version": 1595649562,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
-		"jquery-2.1.1.min.js",
+		"jquery-3.4.1.min.js",
 		"offlineClient.js",
 		"images/vocabletters.png",
 		"images/seaweed2-sheet0.png",
