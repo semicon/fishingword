@@ -2,7 +2,7 @@
 	"name": "fishing words",
 	"short_name": "fishing words",
 	"start_url": "index.html",
-	"display": "fullscreen",
+	"display": "standalone",
 	"orientation": "any",
 	"icons": [{
 		"src": "icon-16.png",
